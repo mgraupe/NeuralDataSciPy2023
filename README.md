@@ -112,8 +112,8 @@ from these machine) :
 *  Room **T209 bis** : 2nd floor, in front of Avogadro D, free access 
 *  Room **T117** : 1st floor, free access 
 
-You connect to your account on those machines - as well as on the classroom machines - with your university UID as login.  The password is your full student number. It it highly recommended to change the default password, 
-which can be done with the command `passwd` in a command line terminal. Please contact [Isabelle Moisenier](mailto:isabelle.moisenier@parisdescartes.fr) 
+You connect to your account on those machines - as well as on the classroom machines - with your university UID as login.  The password is your full student number. It is highly recommended to change the default password, 
+which can be done with the command `passwd` in a command line terminal. Please contact [Benoit Greff](mailto:benoit.greff@parisdescartes.fr) 
 or [Luc Tamisier](mailto:Luc.Tamisier@parisdescartes.fr) in case of problems with the machines or your account. 
 
 
@@ -135,7 +135,7 @@ The dominant teaching language of the course with be English, while the lecturer
 
 ### Course Organizers and Teachers  
 
-The course is organized by [Michael Graupner](mailto:michael.graupner@parisdescartes.fr). Lectures will furthermore be taught by [Heike Stein](mailto:heike.c.stein@gmail.com ), [Jonas Ranfts](mailto:jonas.ranft@ens.fr),  [Karine Audouze](mailto:audouze.p7@gmail.com), and  [Marcel Stimberg](mailto:marcel.stimberg@inserm.fr). All questions regarding access to your university account can be addressed to  [Luc Tamisier](mailto:luc.tamisier@parisdescartes.fr) or [Isabelle Moisenier](mailto:isabelle.moisenier@parisdescartes.fr).
+The course is organized by [Michael Graupner](mailto:michael.graupner@parisdescartes.fr). Lectures will furthermore be taught by [Heike Stein](mailto:heike.c.stein@gmail.com ), [Jonas Ranfts](mailto:jonas.ranft@ens.fr),  [Karine Audouze](mailto:audouze.p7@gmail.com), and  [Marcel Stimberg](mailto:marcel.stimberg@inserm.fr). All questions regarding access to your university account can be addressed to  [Luc Tamisier](mailto:luc.tamisier@parisdescartes.fr) or [Benoit Greff](mailto:benoit.greff@parisdescartes.fr).
 
 Please direct all basic inquiries to [Michael Graupner](mailto:michael.graupner@parisdescartes.fr) by email or pass by his office : 
 
