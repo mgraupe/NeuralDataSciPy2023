@@ -100,10 +100,10 @@ The aim of the project is to establish the preferred head direction of presubicu
 <!--- ======================== -->
 <tr>
 <td valign="top">7</td>
-<td valign="top"> <b>Study the link between cerebellar activity and the step cycle</b></td>
-<td valign="top">The cerebellum is involved in coordinating locomotion. You are provided with a spike train of cerebellar neuron which was recorded while a mouse was walking on a treadmill with bars. We furthermore have extracted the swing and stance phases of the mouse during locomotion. You will study which paw and which event - the onset of the swing or the onset of the stance phase - modulate the firing rate.  You can study this by computing the peristimulus time histograms for the four paws and the two events. 
+<td valign="top"> <b>Extract whisking activity from mouse video recordings</b></td>
+<td valign="top">Mice are filmed with a high-speed camera during a locomotion task. The experiment aims at studying the link between cerebellar neural activity and locomotion. However, mice have to use their whiskers in order to successfully perform the task which consists of walking on bars (similar to a ladder) in the complete darkness. The aim of this project is to extract a measure of whisker activity from the video recordings. Does the engament of the whiskers change dynamically during the task or does the whisker frequency remain constant whenever the animal is walking? 
 </td>
-<td valign="top">spike train handling; PSTH; calculate spiking statistics such as firing rate</td>
+<td valign="top">video/image handling and analysis</td>
 <td valign="top"><a href="mailto:michael.graupner@parisdescartes.fr">Michael Graupner</a></td>
 </tr>
 
@@ -141,7 +141,7 @@ The aim of the project is to establish the preferred head direction of presubicu
 <tr>
 <td valign="top">11</td>
 <td valign="top"> <b>Short-term synaptic plasticity</b></td>
-<td valign="top">ductance-based synapse from lecture/tutorial 07, implement "short-term synaptic plasticity", i.e. a synapse that gets weaker ("synaptic depression") or stronger ("synaptic facilitation") when activated repeatedly. Consider the model from chapter 3.1.3 in the book Neuronal Dynamics (https://neuronaldynamics.epfl.ch/online/Ch3.S1.html), and demonstrate the plasticity by plotting a figure similar to Figure 3.3 from that chapter.
+<td valign="top">Starting with the model of a conductance-based synapse from lecture/tutorial 09, implement "short-term synaptic plasticity", i.e. a synapse that gets weaker ("synaptic depression") or stronger ("synaptic facilitation") when activated repeatedly. Consider the model from chapter 3.1.3 in the book Neuronal Dynamics (https://neuronaldynamics.epfl.ch/online/Ch3.S1.html), and demonstrate the plasticity by plotting a figure similar to Figure 3.3 from that chapter.
 </td>
 <td valign="top">simulation of a spiking neural network; Brian simulator</td>
 <td valign="top"><a href="mailto:marcel.stimberg@inserm.fr">Marcel Stimberg</a></td>
@@ -172,8 +172,8 @@ The aim of the project is to establish the preferred head direction of presubicu
 <!--- ======================== -->
 <tr>
 <td valign="top">14</td>
-<td valign="top"> <b>Phytopharmaceutical compounds and neuro-developmental disorders</b></td>
-<td valign="top">The aim of this mini-project is to explore the current literature available for phytopharmaceutical compounds (such as pesticides) (the list has to be defined by you, and approved by the supervisor), and links them to neuro-developmental disorders. Phytopharmaceutical compounds are small molecules to which human are exposed. These compounds may perturb biological mechanisms in our bodies. From the selected list of compounds, you will perform an automatic literature search using the PubMed database, in order to determine the number of articles related to these compounds, their publication dates, the journal where there are published, etc… and to which diseases they are linked too. You can also check in the PubChem database for synonyms of the chemical names. Chose an appropriate visualization for your results. 
+<td valign="top"> <b>Author position and gender bias</b></td>
+<td valign="top">The aim of this project is to investigate the fraction of scientific articles published (from the PubMed database) by a female/male scientist as first/last author, and how these fractions have developed over the last 20 years. Please, illustrate with an appropriate visualization your obtained results. 
 </td>
 <td valign="top">literature searches, visualization of data</td>
 <td valign="top"><a href="mailto:karine.audouze@parisdescartes.fr">Karine Audouze</a></td>
@@ -182,8 +182,8 @@ The aim of the project is to establish the preferred head direction of presubicu
 <!--- ======================== -->
 <tr>
 <td valign="top">15</td>
-<td valign="top"> <b>Evaluation of health risks from ionizing radiation exposure</b></td>
-<td valign="top">The aim of this mini-project is to explore the current literature available for ionizing radiations (to be determined by you, and approved by the supervisor), and links them to disorders related to the neurological systems. From the defined list of ionizing radiations, you will perform an automatic literature search using the PubMed database, in order to determine the number of articles related to them, their publication dates, the journal where there are published, etc… and to which diseases they are linked too. Be careful, for some you may not fond any information (because has not been studied yet).  Chose an appropriate visualization for your results. 
+<td valign="top"> <b>Research trends in neuroscience</b></td>
+<td valign="top">The aim of this project is to explore patterns and extract research trends based on most common keywords in neuroscience publications (i.e. textual information based on the PubMed database). After identifying these research trends, develop a graphical representation of them (e.g. you can generate wordcloud images). Study how such trends changed over time (e.g. 20 years in intervals of 5 years).  
 </td>
 <td valign="top">literature searches, visualization of data</td>
 <td valign="top"><a href="mailto:karine.audouze@parisdescartes.fr">Karine Audouze</a></td>
@@ -191,9 +191,8 @@ The aim of the project is to establish the preferred head direction of presubicu
 <!--- ======================== -->
 <tr>
 <td valign="top">16</td>
-<td valign="top"> <b>Exploring the usage of AI in toxicology</b></td>
-<td valign="top">The aim of this mini-project is to explore the current literature available for a list of artificial intelligence (AI) related terms, and links them to toxicity and adverse outcome pathways (AOP), AOP networks and quantitative AOPs (qAOPs). AI refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. From the list of the AI terms (see below), you will perform an automatic literature search using the PubMed database, in order to determine the number of articles related to these terms, their publication dates, the journal where they are published, etc… and to which AOP type they are linked too. Chose an appropriate visualization for your results. 
-The AI terms are: artificial intelligence, machine learning, text mining, fuzzy logic, neural network, artificial neural network, genetic algorithm, rule(s)-based systems, deep learning, graph-GAN (generative adversarial network), CNN (convolutional neural network).
+<td valign="top"> <b>Influential papers in neuroscience</b></td>
+<td valign="top">The aim of this project is to identify influential papers in Neuroscience based on citation counts, i.e., which articles and topics received most citations. Compare the impact based on citations with the impact factors of the journals in which the articles are published. Perform this study using the PubMed database and choose a relevant way of visualizing your results.
 </td>
 <td valign="top">literature searches, visualization of data</td>
 <td valign="top"><a href="mailto:karine.audouze@parisdescartes.fr">Karine Audouze</a></td>
