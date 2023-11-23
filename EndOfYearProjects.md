@@ -42,7 +42,7 @@ furthermore download an empty jupter-notebook template [here](miscFiles/empty-pr
 The images from the training dataset would be the input for the classifier and the know identity of the digit would be used to train the classfier. The performance of the classifier is then tested on the test set of images which have never been shown to the classifier. Compare the error rate (the fraction of test dataset images which were not correctly classified) for SVM classifier with different kernel functions (linear, polynomial). 
 </td>
 <td valign="top">implementing different classifiers and testing performance : SVM with different kernels (linear and nonlinear); reading and treating image data</td>
-<td valign="top"><a href="mailto:michael.graupner@parisdescartes.fr">Michael Graupner</a></td>
+<td valign="top"><a href="mailto:heike.c.stein@gmail.com ">Heike Stein</a></td>
 </tr>
 <!--- ======================== -->
 <tr>
@@ -53,7 +53,7 @@ The images from the training dataset would be the input for the classifier and t
 The images from the training dataset would be the input for the clustering algorithm. The know identity of the digit can be used to verify whether clusters found corespond to a specific digit. Which digits fall into indistinguishable clusters?   
 </td>
 <td valign="top">implementing k-means clustering; testing cluster separation with Silhouette analysis; reading and treating image data</td>
-<td valign="top"><a href="mailto:michael.graupner@parisdescartes.fr">Michael Graupner</a></td>
+<td valign="top"><a href="mailto:heike.c.stein@gmail.com ">Heike Stein</a></td>
 </tr>
 <!--- ======================== -->
 <tr>
