@@ -100,7 +100,7 @@ in-course tutorial. The subject is related to the last course. The homeworks ass
 
 Some homework assignments will consist in completing interactive, online assignments on [DataCamp](https://www.datacamp.com/).
 
-**Final exam (50 % of the final mark) :** Students will receive a list of projects they will work on for an extended period of time (about 1.5 months). Projects are small programming projects aimed at independently applying analysis methods acquired during the course. The project can be worked on individually or in teams of two students. More information on the End-of-Course projects and a concrete list of available projects will be provided later in the course. 
+**Final exam (50 % of the final mark) :** Students will receive a list of projects they will work on for an extended period of time (about 1.5 months). Projects are small programming projects aimed at independently applying analysis methods acquired during the course. The project can be worked on individually or in teams of two students. More information on the End-of-Course projects and a concrete list of available projects are available [here](EndOfYearProjects.md).
 
 All student work - the weekly homework assignments and the End-of-Course project report - can be prepared in English or French, up to the choice of the student. 
 
