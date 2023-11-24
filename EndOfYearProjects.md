@@ -198,15 +198,6 @@ The aim of the project is to establish the preferred head direction of presubicu
 <td valign="top"><a href="mailto:karine.audouze@parisdescartes.fr">Karine Audouze</a></td>
 </tr>
 
-<!--- ======================== -->
-<tr>
-<td valign="top">17</td>
-<td valign="top"> <b>Endocrine disrupting chemicals and obesity</b></td>
-<td valign="top">The aim of this mini-project is to explore the current literature available for endocrine disruptors (EDs) (to be determined by you, and approved by the supervisor), and links to obesity. From the defined list of EDs, you will perform an automatic literature search using the PubMed database, in order to determine the number of articles related to them, their publication dates, the journal where there are published, etc… and to which diseases they are linked too, with a focus on obesity. Be careful, for some you may not find any information (because it has not been studied yet).  Chose an appropriate visualization for your results. 
-</td>
-<td valign="top">literature searches, visualization of data</td>
-<td valign="top"><a href="mailto:karine.audouze@parisdescartes.fr">Karine Audouze</a></td>
-</tr>
 
 
 </table>
